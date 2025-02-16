@@ -2,22 +2,27 @@
 My name is Parth Medatwal, currently pursuing a Master’s degree in Electrical and Computer Engineering at The University of Waterloo.<br>I am passionate about exploring Data Analytics, Data Engineering, Machine Learning, and Embedded systems while solving real-world challenges.
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![C](https://img.shields.io/badge/-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Machine Learning](https://img.shields.io/badge/-%23FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![NumPy](https://img.shields.io/badge/-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![Seaborn](https://img.shields.io/badge/-%233776AB?style=for-the-badge&logo=python&logoColor=white) 
-![R](https://img.shields.io/badge/-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![Tableau](https://img.shields.io/badge/-%23E97627?style=for-the-badge&logo=tableau&logoColor=white) 
-![Power Bi](https://img.shields.io/badge/-%23F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
-![Excel](https://img.shields.io/badge/-%23217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
-![Arduino](https://img.shields.io/badge/-%2300979D?style=for-the-badge&logo=arduino&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/-%23C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# Tools and Technologies
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="Machine Learning" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="48" height="48"/>
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" />
+  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/000000/external-pandas-data-science-soft-fill-soft-fill-juicy-fish.png" alt="Pandas" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="48" height="48" />
+  <img src="https://img.icons8.com/ios-filled/50/3776AB/seaborn.png" alt="Seaborn" />
+  <img src="https://img.icons8.com/color/48/000000/r-project.png" alt="R" />
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" />
+  <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino" />
+  <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="Raspberry Pi" />
+</p>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ParthMedatwal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
