@@ -2,18 +2,15 @@
 My name is Parth Medatwal, currently pursuing a Master’s degree in Electrical and Computer Engineering at The University of Waterloo.<br>I am passionate about exploring Data Analytics, Data Engineering, Machine Learning, and Embedded systems while solving real-world challenges.
 
 # 💻 Tech Stack:
-# Tools and Technologies
-
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="Machine Learning" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="48" height="48"/>
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" />
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/48/000000/external-pandas-data-science-soft-fill-soft-fill-juicy-fish.png" alt="Pandas" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="48" height="48" />
-  <img src="https://img.icons8.com/ios-filled/50/3776AB/seaborn.png" alt="Seaborn" />
-  <img src="https://img.icons8.com/color/48/000000/r-project.png" alt="R" />
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="48" height="48" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="48" height="48" />
+  <img src="https://www.r-project.org/Rlogo.png" alt="R" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" />
@@ -22,6 +19,7 @@ My name is Parth Medatwal, currently pursuing a Master’s degree in Electrical 
   <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino" />
   <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="Raspberry Pi" />
 </p>
+
 
 
 # 📊 GitHub Stats:
