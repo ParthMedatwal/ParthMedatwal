@@ -23,9 +23,19 @@ My name is Parth Medatwal, currently pursuing a Master’s degree in Electrical 
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ParthMedatwal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ParthMedatwal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthMedatwal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ParthMedatwal&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParthMedatwal&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthMedatwal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+
 
 ### ✍️ Quote of this Moment!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
