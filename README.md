@@ -12,7 +12,7 @@ My name is Parth Medatwal, currently pursuing a Master’s degree in Electrical 
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="48" height="48" />
   <img src="https://www.r-project.org/Rlogo.png" alt="R" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
+  <img src="https://img.icons8.com/ios/50/000000/database.png" alt="NoSQL" />
   <img src="https://img.icons8.com/color/48/000000/nosql.png" alt="NoSQL" />
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" />
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" />
