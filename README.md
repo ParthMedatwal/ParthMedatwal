@@ -18,6 +18,8 @@ My name is Parth Medatwal, currently pursuing a Master’s degree in Electrical 
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" />
   <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="Arduino" />
   <img src="https://img.icons8.com/color/48/000000/raspberry-pi.png" alt="Raspberry Pi" />
+  <img src="https://img.icons8.com/color/48/000000/autocad.png" alt="AutoCAD" />
+  <img src="https://img.icons8.com/color/48/000000/solidworks.png" alt="SolidWorks" />
 </p>
 
 
