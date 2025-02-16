@@ -9,7 +9,7 @@ My name is Parth Medatwal, currently pursuing a Master’s degree in Electrical 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ParthMedatwal&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthMedatwal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Quote of the Day!
+### ✍️ Quote of this Moment!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
