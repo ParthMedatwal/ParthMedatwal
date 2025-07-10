@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Parth Medatwal, currently pursuing a Master’s degree in Electrical and Computer Engineering at The University of Waterloo.<br>I am passionate about exploring Data Analytics, Data Engineering, Machine Learning, and Embedded systems while solving real-world challenges.
+My name is Parth Medatwal, currently pursuing a Master’s degree in Electrical and Computer Engineering at The University of Waterloo.<br>I am passionate about exploring Embedded systems, Data Analytics, and Machine Learning while solving real-world challenges.
 
 # 💻 Tech Stack:
 <p align="center">
